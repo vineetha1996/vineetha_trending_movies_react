@@ -1,7 +1,0 @@
-1. yarn start (backend)
-2. cd client & yarn start (frontend)
-3. Go to localhost:3000 (or some other port depending on log statement)
-4. Browse through trending homepage and visit either TV/Movie info page.
-
-Screenshots are located in the same folder.
-![Home_Page](https://github.com/vineetha1996/vineetha_trending_movies_react/blob/b32cf98818c8d78368e6c8c7d3197d75df5f1eed/homepage.png)
